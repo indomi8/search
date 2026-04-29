@@ -1,0 +1,16 @@
+body{
+    background-color: #22242a!important;
+}
+
+input{
+    background-color: #4d5156!important;
+    border-color: transparent;
+    padding: 5px 10px;
+    color: aliceblue;
+}
+.bl{
+    background-color: #0d6efd!important;
+}
+.middly{
+    margin-top: 10rem!important;
+}
